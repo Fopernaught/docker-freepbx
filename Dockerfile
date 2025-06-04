@@ -1,5 +1,4 @@
 FROM tiredofit/debian:buster
-LABEL maintainer="Dave Conroy (dave at tiredofit dot ca)"
 
 ### Set defaults
 ENV ASTERISK_VERSION=17.9.4 \
